@@ -98,4 +98,4 @@ class ExportInElastic:
 if __name__ == '__main__':
     exp=ExportInElastic()
     exp.run()
-    del exp
+    del exp 
